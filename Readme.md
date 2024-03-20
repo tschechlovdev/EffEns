@@ -1,6 +1,6 @@
-# EffEns: Efficient Ensemble Clustering via Meta-Learning and Hyperparameter Optimization 
+# EffEns: Efficient Ensemble Clustering based on Meta-Learning and Hyperparameter Optimization 
 
-Prototypical Implementation in Python of the submitted Paper "Detecting Complex Data Characteristics: Efficient Ensemble  Clustering via Meta-Learning and Hyperparameter Optimization" at VLDB 2024.
+Prototypical Implementation in Python of the submitted Paper "Ensemble  Clustering based on Meta-Learning and Hyperparameter Optimization" at VLDB 2024.
 In the following, we provide an overview of the code structure, an installation instruction, and an example on how to use EffEns.
 
 ## Overview
